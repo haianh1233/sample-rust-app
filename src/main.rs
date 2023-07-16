@@ -1,5 +1,4 @@
 use clap::Parser;
-use reqwest::Url;
 
 mod ping;
 
